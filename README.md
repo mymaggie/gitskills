@@ -7,5 +7,8 @@ add merge
 
 git stash
 
+
 Switch to branch issue-1001
+
+dev branch is developing
 
